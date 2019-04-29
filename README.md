@@ -19,6 +19,8 @@ A working identity hub implementation is composed of several layers, several of 
 
 The reference implementation in this repo serves an identity hub as a simple HTTP web server using NodeJS and Express. MongoDB is used for data persistence. 
 
+To learn more about identity hubs, check out the [identity-hub repo](https://github.com/decentralized-identity/identity-hub).
+
 ## Run an identity hub
 
 Follow these instructions to run an identity hub on your local machine:

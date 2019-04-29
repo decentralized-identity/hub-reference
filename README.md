@@ -9,13 +9,13 @@ An identity hub implementation has the following layers:
 
 | Layer | Resources | 
 | ----- | --------- |
-| <img src="./assets/hub-stack-1.png" style="width:500px"/> | [GitHub Repo](https://github.com/decentralized-identity/hub-sdk-js) |
-| <img src="./assets/hub-stack-2.png" style="width:500px"/> | [GitHub Repo](https://github.com/decentralized-identity/hub-node-core) \| [Protocol Explainer](https://github.com/decentralized-identity/identity-hub/blob/master/explainer.md) |
-| <img src="./assets/hub-stack-3.png" style="width:500px"/> | [GitHub Repo](https://github.com/decentralized-identity/did-auth-jose) \| [Protocol Explainer](https://github.com/decentralized-identity/identity-hub/blob/master/docs/authentication.md) |
-| <img src="./assets/hub-stack-4.png" style="width:500px"/> | [GitHub Repo](https://github.com/decentralized-identity/hub-node-core) \| [Explainer](https://github.com/decentralized-identity/identity-hub/blob/master/docs/permissions.md) |
-| <img src="./assets/hub-stack-5.png" style="width:500px"/> |  |
-| <img src="./assets/hub-stack-6.png" style="width:500px"/> |  |
-| <img src="./assets/hub-stack-7.png" style="width:500px"/> | [GitHub Repo](https://github.com/microsoft/hub-mongo-connector) |
+| <img src="./assets/hub-stack-1.png" style="width:300px"/> | [GitHub Repo](https://github.com/decentralized-identity/hub-sdk-js) |
+| <img src="./assets/hub-stack-2.png" style="width:300px"/> | [GitHub Repo](https://github.com/decentralized-identity/hub-node-core) \| [Protocol Explainer](https://github.com/decentralized-identity/identity-hub/blob/master/explainer.md) |
+| <img src="./assets/hub-stack-3.png" style="width:300px"/> | [GitHub Repo](https://github.com/decentralized-identity/did-auth-jose) \| [Protocol Explainer](https://github.com/decentralized-identity/identity-hub/blob/master/docs/authentication.md) |
+| <img src="./assets/hub-stack-4.png" style="width:300px"/> | [GitHub Repo](https://github.com/decentralized-identity/hub-node-core) \| [Explainer](https://github.com/decentralized-identity/identity-hub/blob/master/docs/permissions.md) |
+| <img src="./assets/hub-stack-5.png" style="width:300px"/> |  |
+| <img src="./assets/hub-stack-6.png" style="width:300px"/> |  |
+| <img src="./assets/hub-stack-7.png" style="width:300px"/> | [GitHub Repo](https://github.com/microsoft/hub-mongo-connector) |
 
 The reference implementation in this repo serves an identity hub as a simple HTTP web server using NodeJS and Express. MongoDB is used for data persistence. 
 

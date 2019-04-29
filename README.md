@@ -5,7 +5,7 @@ This repo contains an open source implementation of a DIF identity hub for evalu
 
 Identity hubs provide durable storage for information and data "owned" by a [decentralized identity (DID)](https://w3c-ccg.github.io/did-spec/). Hubs can run in multiple different enviornments - in the cloud, on a server, or on an edge device. All instances of identity hubs that are associated with a DID synchronize data between each other to ensure consistency. Currently, identity hubs support simple read and write of JSON data.
 
-An identity hub implementation has the following layers:
+A working identity hub implementation is composed of several layers, several of which are being developed as distinct repos:
 
 | Layer | GitHub Repo | Docs | 
 | ----- | ----------- | ---- |

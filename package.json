@@ -14,7 +14,7 @@
     "@decentralized-identity/did-auth-jose": "0.1.11",
     "@decentralized-identity/did-common-typescript": "0.1.18",
     "@decentralized-identity/hub-node-core": "0.1.4",
-    "@microsoft/hub-mongo-connector": "1.0.0-alpha.1",
-    "express": "^4.16.4"
+    "@microsoft/hub-mongo-connector": "1.0.0-alpha.2",
+    "express": "4.16.4"
   }
 }

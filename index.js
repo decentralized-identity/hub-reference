@@ -4,7 +4,7 @@ var fetch = require('node-fetch')
 var fs = require('fs')
 
 var Hub = require('@decentralized-identity/hub-node-core')
-var hubMongo = require('hub-mongo-connector')
+var hubMongo = require('@microsoft/hub-mongo-connector')
 var didCommon = require('@decentralized-identity/did-common-typescript')
 var didAuth = require('@decentralized-identity/did-auth-jose')
 

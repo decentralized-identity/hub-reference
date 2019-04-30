@@ -1,7 +1,5 @@
 var fs = require('fs');
-var path = require('path');
 var didAuth = require('@decentralized-identity/did-auth-jose');
-var pemJwk = require('pem-jwk');
 var http = require('https');
 
 const KEY_ID = "key-1";

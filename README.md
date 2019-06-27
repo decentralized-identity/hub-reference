@@ -15,7 +15,7 @@ A working identity hub implementation is composed of several layers, several of 
 | Permissions/Authorization | [hub-node-core](https://github.com/decentralized-identity/hub-node-core) | [Explainer](https://github.com/decentralized-identity/identity-hub/blob/master/docs/permissions.md) |
 | Edge Data Encryption | not yet implemented | |
 | Sync & Replicaition | not yet implemented | | 
-| Pluggable Data Storage | [hub-mongo-connector](https://github.com/microsoft/hub-mongo-connector) | |
+| Pluggable Data Storage | [hub-storage-mongo](https://github.com/decentralized-identity/hub-storage-mongo) | |
 
 The reference implementation in this repo serves an identity hub as a simple HTTP web server using NodeJS and Express. MongoDB is used for data persistence. 
 
